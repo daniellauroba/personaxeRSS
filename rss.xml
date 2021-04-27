@@ -3,17 +3,17 @@
 
 <channel>
   <title> Personas RSS </title>
-  <link>https://www.w3schools.com</link>
-  <description>Free web building tutorials</description>
+  <link>https://daniellauroba.github.io/personaxeRSS/</link>
+  <description>Canal inforformaivo sobre personajes</description>
+  <image>
+    <url> https://androidayuda.com/app/uploads-androidayuda.com/2020/11/anime.png</url>
+    <title> Personajes RSS </title>
+    <link> https://androidayuda.com/app/uploads-androidayuda.com/2020/11/anime.png</link>
+  </image>
   <item>
-    <title>RSS Tutorial</title>
-    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
-    <description>New RSS tutorial on W3Schools</description>
-  </item>
-  <item>
-    <title>XML Tutorial</title>
-    <link>https://www.w3schools.com/xml</link>
-    <description>New XML tutorial on W3Schools</description>
+    <title>Personajes RSS</title>
+    <link>https://daniellauroba.github.io/personaxeRSS/</link>
+    <description>DEscripcion e informacion sobre 4 personajes bastante conocidos </descripcion>
   </item>
 </channel>
 
