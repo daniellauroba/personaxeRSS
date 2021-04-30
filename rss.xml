@@ -1,21 +1,25 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
-
-<channel>
-  <title> Personas RSS </title>
-  <link>https://daniellauroba.github.io/personaxeRSS/</link>
-  <description>Canal inforformaivo sobre personajes</description>
-  <image>
-    <url> https://androidayuda.com/app/uploads-androidayuda.com/2020/11/anime.png</url>
-    <title> Personajes RSS </title>
-    <link> https://androidayuda.com/app/uploads-androidayuda.com/2020/11/</link>
-  </image>
-  <item>
-    <title>Personajes RSS</title>
-    <link>https://daniellauroba.github.io/personaxeRSS/</link>
-    <description>DEscripcion e informacion sobre 4 personajes bastante conocidos </descripcion>
-  </item>
-</channel>
-
-</rss>
+<html>
+  <head>
+    <title>PersonaxeRSS</title>
+  </head>
+  <body>
+    <h1>PersonaxeRSS</h1>
+    <h2>Goku</h2>
+    <img src="Filemon.png" height="150px" width="100px">
+    <h3>Resumo</h3>
+    <p>Filemón Pi (en las primeras historietas, Filemón Gutiérrez) es un personaje creado por Francisco Ibáñez en 1958 para su serie Mortadelo y Filemón, siendo el protagonista de la misma junto a su subalterno Mortadelo.</p>
+    <a href="https://es.wikipedia.org/wiki/Filem%C3%B3n">Más a cerca de Filemón</a>
+    <hr>
+    <h3>Vegeta</h3>
+    <img src="Mortadelo1.png" height="150px" width="100px">
+    <h3>Resumo</h3>
+    <p>Mortadelo es un personaje creado por Francisco Ibáñez en 1958 para su serie Mortadelo y Filemón, en la que ejerce de coprotagonista junto a su jefe Filemón.</p>
+    <a href="https://es.wikipedia.org/wiki/Mortadelo">Más a cerca de Mortadelo</a>
+    <hr>
+    <h3>Flash</h3>
+    <img src="toretto.jpg" height="150px" width="100px">
+    <h3>Resumo</h3>
+    <p> Es un personaje de ficción protagonista de la saga cinematográfica The Fast and the Furious.</p>
+    <a href="https://es.wikipedia.org/wiki/Dominic_Toretto">Más a cerca de Toretto</a>
+  </body>
 </html>
