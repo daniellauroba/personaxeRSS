@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+<title>PersonaxeRSS</title>
+<link>https://daniellauroba.github.io/personaxeRSS/</link>
+<description>PersonajesRSS</description>
+<image>
+<url>https://i.pinimg.com/originals/6c/56/5f/6c565f842aff339279d55f1bd1ee5876.jpg</url>
+<title>PersonaxesRSS</title>
+<link>https://daniellauroba.github.io/personaxeRSS/</link>
+</image>
+<item>
+<title>goku</title>
+<link>https://daniellauroba.github.io/personaxeRSS/goku.html</link>
+<description>Personaje de anime y dibujos</description>
+</item>
+<item>
+<title>vegeta</title>
+<link>https://daniellauroba.github.io/personaxeRSS/vegeta.html</link>
+<description>Personaje de anime y dibujos</description>
+</item>
+<item>
+<title>flash</title>
+<link>https://daniellauroba.github.io/personaxeRSS/flash.html</link>
+<description>personaje de peliculas y series</description>
+</item>
+<title>arrow</title>
+<link>https://daniellauroba.github.io/personaxeRSS/arrow.html</link>
+<description>Personaje de peliculas y series</description>
+</item>
+  </channel>
+</rss>
