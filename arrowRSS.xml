@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>PersonaxeRSS</title>
+    <link>https://daniellauroba.github.io/personaxeRSS/</link>
+    <description>Personaxes</description>
+    <image>
+      <url>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2020/02/dragon-ball-significan-nombres-personajes-1858451.jpg</url>
+      <title>PersonaxesRSS</title>
+      <link>https://daniellauroba.github.io/personaxeRSS/</link>
+    </image>
+    
+    <item>
+      <title>Arrow</title>
+      <link>https://daniellauroba.github.io/personaxeRSS/</link>
+      <description>Personaxe de serie de accion</description>
+    </item>
+  </channel>
+</rss>
